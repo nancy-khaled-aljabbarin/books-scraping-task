@@ -1,7 +1,7 @@
 ﻿id,image,book_name,rating,price,status,category
 1,https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg,It's Only the Himalayas,2,45.17,True,Travel
 2,https://books.toscrape.com/media/cache/57/77/57770cac1628f4407636635f4b85e88c.jpg,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,4,49.43,True,Travel
-3,https://books.toscrape.com/media/cache/9a/7e/9a7e63f12829df4b43b31d110bf3dc2e.jpg,See America: A Celebration of Our National Parks & Treasured Sites,3,48.87,True,Travel
+3,"",See America: A Celebration of Our National Parks & Treasured Sites,3,48.87,True,Travel
 4,https://books.toscrape.com/media/cache/d5/bf/d5bf0090470b0b8ea46d9c166f7895aa.jpg,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,2,36.94,True,Travel
 5,https://books.toscrape.com/media/cache/98/c2/98c2e95c5fd1a4e7cd5f2b63c52826cb.jpg,Under the Tuscan Sun,3,37.33,True,Travel
 6,https://books.toscrape.com/media/cache/4e/15/4e15150388702ebca2c5a523ac270539.jpg,A Summer In Europe,2,44.34,True,Travel
